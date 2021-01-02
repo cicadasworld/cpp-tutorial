@@ -1,0 +1,3 @@
+D:/03-projects/07-CLionProjects/cpp-demo/printing-text/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/03-projects/07-CLionProjects/cpp-demo/printing-text/cmake-build-debug/CMakeFiles/printing-text.dir
+D:/03-projects/07-CLionProjects/cpp-demo/printing-text/cmake-build-debug/CMakeFiles/rebuild_cache.dir
